@@ -1,0 +1,1 @@
+# hpsc-vite-template
