@@ -2,10 +2,22 @@
 ## Change Log
 
 ### Table of Contents
-- [Version 1.0.0](#version-100--_2025-01-07_)
+- [Version 1.0.1](#version-101---_2025-01-07_)
+- [Version 1.0.0](#version-100---_2025-01-07_)
 
 
-### [Version 1.0.0](https://github.com/tahoni/template-react/releases/tag/version-1.0.0) -_2025-01-07_
+### [Version 1.0.1](https://github.com/tahoni/template-react/releases/tag/version-1.0.1) - _2025-01-07_
+Fixed various problems with the readme file.<br/>
+
+#### Licence and Documentation
+- Added more sections to the change log and release notes.
+- A non-existing bookmark was removed from the readme file.
+- Fixed formatting of headings in the markdown files.
+
+#### Changes by
+@tahoni
+
+### [Version 1.0.0](https://github.com/tahoni/template-react/releases/tag/version-1.0.0) - _2025-01-07_
 Created the first version of the template using React 19.<br/>
 
 #### Enhancements and Updates
