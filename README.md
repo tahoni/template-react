@@ -1,7 +1,6 @@
 # XXX project
 
 ## Table of Contents
-
 - [Description](#description)
 - [Summary](#summary)
 - [Repository](#repository)
@@ -13,18 +12,15 @@
 - [Author](#author)
 
 ## Description
-
 A description of the project.
 
 ## Summary
-
 The XXX project uses modern web technologies
 to provide an informative and user-friendly platform for members and
 visitors.<br/>
 The primary technologies used in this project include TypeScript, SCSS, and MDX.
 
 ## Repository
-
 The repository for this project is located at
 [GitHub](https://github.com/tahoni/template-react).
 
@@ -36,7 +32,6 @@ An overview of the project can be found at
 [https://tahoni.info/projects/template-react](https://www.tahoni.info/projects/template-react).
 
 ## Structure
-
 A high-level structure of the project.
 
 ```text
@@ -74,7 +69,6 @@ A high-level structure of the project.
 ## Technology
 
 ### Overview
-
 This is a React project bootstrapped using Vite with the TypeScript React
 template.
 
@@ -178,21 +172,20 @@ should only report what it would have done.
 ## Screenshots
 
 ### History Page
-
 ![Home Page](./documentation/screenshots/HomePage.png)
 
 ## License
-
 Copyright © 2025 XXX.<br/>
 All Rights Reserved.
 
 ## Author
-
 **Leoni Lubbinge**
 
-- [![Website Badge](https://img.shields.io/badge/https%3A%2F%2Ftahoni.info-blue?color=%230077b6ff)](https://www.tahoni.info)
-- [![Email Badge](https://img.shields.io/badge/leonil%40tahoni.info-blue?color=%230077b6ff)](mailto:leonil@tahoni.info)
-- [![Outlook Email Badge](https://img.shields.io/badge/tahoni%40outlook.com-blue?color=%230077b6ff)](mailto:tahoni@outlook.com)
-- [![Gmail Email Badge](https://img.shields.io/badge/tahoni%40gmail.com-blue?logo=gmail&labelColor=%23023e8aff&color=%230077b6ff)](mailto:tahoni@gmail.com)
-- [![GitHub Badge](https://img.shields.io/badge/Leoni_Lubbinge-blue?logo=github&labelColor=%23023e8aff&color=%230077b6ff)](https://github.com/tahoni)
-- [![LinkedIn Badge](https://img.shields.io/badge/Leoni_Lubbinge-blue?logo=linkedin&labelColor=%23023e8aff&color=%230077b6ff)](https://www.linkedin.com/in/leoni-lubbinge-06066b16/)
+- [![Website Badge](https://custom-icon-badges.demolab.com/badge/https%3A%2F%2Ftahoni.info-blue?logo=file-code)](https://www.tahoni.info)
+- [![Email Badge](https://custom-icon-badges.demolab.com/badge/leonil%40tahoni.info-blue?logo=mail)](mailto:leonil@tahoni.info)
+
+
+- [![Outlook Email Badge](https://custom-icon-badges.demolab.com/badge/tahoni%40outlook.com-blue.svg?logo=mail)](mailto:tahoni@outlook.com)
+- [![Gmail Email Badge](https://img.shields.io/badge/tahoni%40gmail.com-blue?logo=gmail)](mailto:tahoni@gmail.com)
+- [![GitHub Badge](https://img.shields.io/badge/Leoni_Lubbinge-blue?logo=github)](https://github.com/tahoni)
+- [![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/Leoni_Lubbinge-blue.svg?logoSource=feather&logo=linkedin)](https://www.linkedin.com/in/leoni-lubbinge-06066b16/)
