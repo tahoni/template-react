@@ -30,6 +30,8 @@ project's [Issues](https://github.com/tahoni/template-react/issues) page.
 A high-level structure of the project.
 
 ```text
+├───.github
+│   └───workflows
 ├───documentation
 │   └───screenshots
 ├───public
@@ -50,6 +52,7 @@ A high-level structure of the project.
     │   ├───pages
     │   │   └───Home
     │   └───posts
+    │       └───Example
     ├───layout
     │   ├───Body
     │   ├───Content
