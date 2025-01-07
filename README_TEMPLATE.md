@@ -1,4 +1,4 @@
-# React template project
+# XXX project
 
 ## Table of Contents
 - [Description](#description)
@@ -12,11 +12,12 @@
 - [Author](#author)
 
 ## Description
-This project is a repository template for React projects.
+A description of the project.
 
 ## Summary
-The React template project uses modern web technologies
-to provide a useful starting point for my React projects.<br/>
+The XXX project uses modern web technologies
+to provide an informative and user-friendly platform for members and
+visitors.<br/>
 The primary technologies used in this project include TypeScript, SCSS, and MDX.
 
 ## Repository
@@ -26,6 +27,9 @@ The repository for this project is located at
 Feature requests, suggestions for improvements and bugs can be
 logged using the
 project's [Issues](https://github.com/tahoni/template-react/issues) page.
+
+An overview of the project can be found at
+[https://tahoni.info/projects/template-react](https://www.tahoni.info/projects/template-react).
 
 ## Structure
 A high-level structure of the project.
@@ -165,8 +169,14 @@ Packages the library in the `dist` folder to a tarball.<br/>
 Indicates that you don't want npm to make any changes and that it
 should only report what it would have done.
 
+## Screenshots
+
+### History Page
+![Home Page](./documentation/screenshots/HomePage.png)
+
 ## License
-This project is licensed under the terms of the _MIT license_.
+Copyright © 2025 XXX.<br/>
+All Rights Reserved.
 
 ## Author
 **Leoni Lubbinge**
