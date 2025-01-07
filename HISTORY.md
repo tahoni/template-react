@@ -8,7 +8,7 @@
 
 
 ### [Version 1.0.2](https://github.com/tahoni/template-react/releases/tag/version-1.0.2) - _2025-01-08_
-Fixed a few remaining problems with the template.
+Fixed a few remaining problems with the template.<br/>
 
 #### Enhancements and Updates
 - Created a `/home` route.
