@@ -1,5 +1,5 @@
 # React template
-## Change Log
+## History
 
 ### Table of Contents
 - [Version 1.0.1](#version-101---_2025-01-07_)
@@ -12,7 +12,7 @@ Fixed various problems with the readme file.<br/>
 #### Licence and Documentation
 - Added more sections to the change log and release notes.
 - A non-existing bookmark was removed from the readme file.
-- Fixed formatting of headings in the markdown files.
+- Fixed formatting of headings in the Markdown files.
 
 #### Changes by
 @tahoni

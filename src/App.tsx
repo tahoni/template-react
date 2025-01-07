@@ -9,6 +9,7 @@ function App() {
       <Routes>
         <Route element={<Layout />}>
           <Route path="/" element={<HomePage />} />
+          <Route path="/home" element={<Navigate to="/" />} />
           <Route path="/page_not_found" element={<PageNotFound />} />
           <Route path="*" element={<Navigate to="/page_not_found" />} />
         </Route>

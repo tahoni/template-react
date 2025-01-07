@@ -170,7 +170,7 @@ Indicates that you don't want npm to make any changes and that it
 should only report what it would have done.
 
 ## License
-This project is licensed under the terms of the _MIT license_.
+This project is licensed under the terms of the _MIT licence_.
 
 ## Author
 **Leoni Lubbinge**
