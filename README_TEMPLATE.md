@@ -35,6 +35,8 @@ An overview of the project can be found at
 A high-level structure of the project.
 
 ```text
+├───.github
+│   └───workflows
 ├───documentation
 │   └───screenshots
 ├───public
