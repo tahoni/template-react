@@ -62,6 +62,11 @@ A high-level structure of the project.
     └───utils
 ```
 
+This is the readme for this project.<br/> 
+The readme template for new projects is in README_TEMPLATE.md.<br/>
+The CHANGELOG.md and RELEASE_NOTES.md are the templates for new projects.<br/>
+The HISTORY.md contains the change log for this project.<br/>
+
 ## Technology
 
 ### Overview
