@@ -2,9 +2,26 @@
 ## History
 
 ### Table of Contents
+- [Version 1.0.2](#version-102---_2025-01-08_)
 - [Version 1.0.1](#version-101---_2025-01-07_)
 - [Version 1.0.0](#version-100---_2025-01-07_)
 
+
+### [Version 1.0.2](https://github.com/tahoni/template-react/releases/tag/version-1.0.2) - _2025-01-08_
+Fixed a few remaining problems with the template.
+
+#### Enhancements and Updates
+- Created a `/home` route.
+
+#### Licence and Documentation
+- Changed the heading of the history file to History.
+- Improved the directory structure in the readme file.
+
+#### General Code Improvements
+- Deleted the `eslint.config.js` file causing errors.
+
+#### Changes by
+@tahoni
 
 ### [Version 1.0.1](https://github.com/tahoni/template-react/releases/tag/version-1.0.1) - _2025-01-07_
 Fixed various problems with the readme file.<br/>
