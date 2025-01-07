@@ -7,7 +7,6 @@
 - [Structure](#structure)
 - [Technology](#technology)
 - [Instructions](#instructions)
-- [Screenshots](#screenshots)
 - [License](#license)
 - [Author](#author)
 
