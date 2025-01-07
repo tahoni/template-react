@@ -2,10 +2,23 @@
 ## History
 
 ### Table of Contents
+- [Version 1.0.3](#version-103---_2025-01-08_)
 - [Version 1.0.2](#version-102---_2025-01-08_)
 - [Version 1.0.1](#version-101---_2025-01-07_)
 - [Version 1.0.0](#version-100---_2025-01-07_)
 
+
+### [Version 1.0.3](https://github.com/tahoni/template-react/releases/tag/version-1.0.3) - _2025-01-08_
+Synced with hpsc-template-react.<br/>
+
+#### Bug Fixes
+- Fixed the heading of the home page screenshot.
+
+#### General Code Improvements
+- Added some more options to the `tsconfig.json` files.
+
+#### Changes by
+@tahoni
 
 ### [Version 1.0.2](https://github.com/tahoni/template-react/releases/tag/version-1.0.2) - _2025-01-08_
 Fixed a few remaining problems with the template.<br/>

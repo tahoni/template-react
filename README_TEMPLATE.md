@@ -173,7 +173,7 @@ should only report what it would have done.
 
 ## Screenshots
 
-### History Page
+### Home Page
 ![Home Page](./documentation/screenshots/HomePage.png)
 
 ## License
