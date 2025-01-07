@@ -6,7 +6,7 @@
 
 
 ### [Version 1.0.0](https://github.com/tahoni/template-react/releases/tag/version-1.0.0) -_2025-01-07_
-Created the first version of the template using React 19.<br/
+Created the first version of the template using React 19.<br/>
 
 #### Enhancements and Updates
 - Created the basic directory structure.
