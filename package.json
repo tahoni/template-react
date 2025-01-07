@@ -1,5 +1,5 @@
 {
-  "name": "hpsc-tenplate-react",
+  "name": "tenplate-react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "prepublishOnly": "tsc -b && vite build"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
