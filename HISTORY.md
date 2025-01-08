@@ -2,14 +2,14 @@
 ## History
 
 ### Table of Contents
-- [Version 1.0.4](#version-104---_2025-01-09_)
+- [Version 1.0.4](#version-104---_2025-01-08_)
 - [Version 1.0.3](#version-103---_2025-01-08_)
 - [Version 1.0.2](#version-102---_2025-01-08_)
 - [Version 1.0.1](#version-101---_2025-01-07_)
 - [Version 1.0.0](#version-100---_2025-01-07_)
 
 
-### [Version 1.0.4](https://github.com/tahoni/template-react/releases/tag/version-1.0.4) - _2025-01-09_
+### [Version 1.0.4](https://github.com/tahoni/template-react/releases/tag/version-1.0.4) - _2025-01-08_
 Added an author and description to the project.<br>
 
 #### Licence and Documentation
