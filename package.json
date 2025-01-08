@@ -1,5 +1,7 @@
 {
   "name": "tenplate-react",
+  "author": "Leoni Lubbinge <tahoni@gmail.com>",
+  "description": "React template",
   "private": true,
   "version": "0.0.0",
   "type": "module",
