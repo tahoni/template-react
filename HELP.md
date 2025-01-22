@@ -1,4 +1,4 @@
-# XXX project
+# React template project
 
 ## Table of Contents
 - [Description](#description)
@@ -7,17 +7,15 @@
 - [Structure](#structure)
 - [Technology](#technology)
 - [Instructions](#instructions)
-- [Screenshots](#screenshots)
 - [License](#license)
 - [Author](#author)
 
 ## Description
-A description of the project.
+This project is a repository template for React projects.
 
 ## Summary
-The XXX project uses modern web technologies
-to provide an informative and user-friendly platform for members and
-visitors.<br/>
+The React template project uses modern web technologies
+to provide a useful starting point for my React projects.<br/>
 The primary technologies used in this project include TypeScript, SCSS, and MDX.
 
 ## Repository
@@ -27,9 +25,6 @@ The repository for this project is located at
 Feature requests, suggestions for improvements and bugs can be
 logged using the
 project's [Issues](https://github.com/tahoni/template-react/issues) page.
-
-An overview of the project can be found at
-[https://tahoni.info/projects/template-react](https://www.tahoni.info/projects/template-react).
 
 ## Structure
 A high-level structure of the project.
@@ -57,6 +52,7 @@ A high-level structure of the project.
     │   ├───pages
     │   │   └───Home
     │   └───posts
+    │       └───Example
     ├───layout
     │   ├───Body
     │   ├───Content
@@ -67,6 +63,11 @@ A high-level structure of the project.
     │   └───NotFound
     └───utils
 ```
+
+This is the readme for this project, and is called `HELP.md`.<br/> 
+The readme template for new projects is in `README.md` as is expected.<br/>
+The `CHANGELOG.md` and `RELEASE_NOTES.md` are the templates for new projects.<br/>
+The `HISTORY.md` contains the change log for this project.<br/>
 
 ## Technology
 
@@ -171,14 +172,8 @@ Packages the library in the `dist` folder to a tarball.<br/>
 Indicates that you don't want npm to make any changes and that it
 should only report what it would have done.
 
-## Screenshots
-
-### Home Page
-![Home Page](./documentation/screenshots/HomePage.png)
-
 ## License
-Copyright © 2025 XXX.<br/>
-All Rights Reserved.
+This project is licensed under the terms of the _MIT licence_.
 
 ## Author
 **Leoni Lubbinge**
