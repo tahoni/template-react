@@ -2,12 +2,34 @@
 ## History
 
 ### Table of Contents
+- [Version 1.0.5](#version-105---_2025-01-22_)
 - [Version 1.0.4](#version-104---_2025-01-08_)
 - [Version 1.0.3](#version-103---_2025-01-08_)
 - [Version 1.0.2](#version-102---_2025-01-08_)
 - [Version 1.0.1](#version-101---_2025-01-07_)
 - [Version 1.0.0](#version-100---_2025-01-07_)
 
+
+### [Version 1.0.5](https://github.com/tahoni/template-react/releases/tag/version-1.0.5) - _2025-01-22_
+Renamed the template markdown files.<br/>
+Added more libraries.<br/>
+Improved the building settings.<br/>
+
+#### General Code Improvements
+- The npm token's name was changed to `NPM_TOKEN` for possible use in GitHub Actions.
+
+#### Licence and Documentation
+- The `README.md` file for the template was renamed to `HELP.md`.
+- Renamed the `README_TEMPLATE.md` to `README.md`.
+
+#### General Technical Changes
+- A setting was added in `vite.config.ts` to build the project with smaller chunks.
+
+#### Dependencies
+- Added the `react-spinners` dependency,
+
+#### Changes by
+@tahoni
 
 ### [Version 1.0.4](https://github.com/tahoni/template-react/releases/tag/version-1.0.4) - _2025-01-08_
 Added an author and description to the project.<br>
@@ -41,7 +63,7 @@ Fixed a few remaining problems with the template.<br/>
 - Improved the directory structure in the readme file.
 
 #### General Code Improvements
-- Deleted the `eslint.config.js` file causing errors.
+- The `eslint.config.js` file causing errors was removed.
 
 #### Changes by
 @tahoni
