@@ -2,7 +2,6 @@
 ## History
 
 ### Table of Contents
-- [Version 1.0.6](#version-106---_2025-02-07_)
 - [Version 1.0.5](#version-105---_2025-01-22_)
 - [Version 1.0.4](#version-104---_2025-01-08_)
 - [Version 1.0.3](#version-103---_2025-01-08_)
@@ -10,15 +9,6 @@
 - [Version 1.0.1](#version-101---_2025-01-07_)
 - [Version 1.0.0](#version-100---_2025-01-07_)
 
-
-### [Version 1.0.6](https://github.com/tahoni/template-react/releases/tag/version-1.0.6) - _2025-02-07_
-Mitigated a critical vitest vulnerability.
-
-#### Dependencies
-- Updated the `vitest` dependency.
-
-#### Changes by
-@tahoni
 
 ### [Version 1.0.5](https://github.com/tahoni/template-react/releases/tag/version-1.0.5) - _2025-01-22_
 Renamed the template markdown files.<br/>
